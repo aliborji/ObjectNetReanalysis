@@ -4,9 +4,16 @@ ObjectNet Annotations Release 1.0
 April 1, 2020
 
 
+**News**: Manuscript is avaiable in [Arxiv](xxx).
+
+
+The code works with **PyTorch 1.0.0 or higher.
+
+
+
+
 This repository provides bounding box annotations of the ObjectNet dataset
 by Barbu et al. NIPS 2019. 
-
 
 
 
@@ -40,6 +47,7 @@ Ali Borji
 
 Here is the .bib file:
 
+```
 @inproceedings{borjix,
   title={ObjectNet Dataset: Reanalysis and Correction},
   author={Borji, Ali},
@@ -47,5 +55,7 @@ Here is the .bib file:
   pages={x--y},
   year={2020}
 }
+```
 
 Please write to aliborji@gmail.com for further questiones, comments, etc.
+
