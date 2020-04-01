@@ -1,4 +1,4 @@
-ObjectNet Annotations Release 1.0
+ObjectNet Annotations
 =====================
 
 April 1, 2020
@@ -7,7 +7,11 @@ April 1, 2020
 **News**: Manuscript is avaiable in [Arxiv](xxx).
 
 
-The code works with **PyTorch 1.0.0 or higher.
+
+
+* The code works with **PyTorch 1.0.0 or higher.
+
+
 
 
 
