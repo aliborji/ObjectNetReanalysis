@@ -4,7 +4,7 @@ ObjectNet Annotations
 April 1, 2020
 
 
-**News**: Manuscript is avaiable in [Arxiv](xxx).
+**News**: Manuscript is avaiable in [Arxiv](https://arxiv.org/pdf/2004.02042.pdf).
 
 
 
