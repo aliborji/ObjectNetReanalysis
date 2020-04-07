@@ -52,12 +52,13 @@ Ali Borji
 Here is the .bib file:
 
 ```
-@inproceedings{borjix,
-  title={ObjectNet Dataset: Reanalysis and Correction},
-  author={Borji, Ali},
-  booktitle={Arxiv},
-  pages={x--y},
-  year={2020}
+@misc{borji2020objectnet,
+    title={ObjectNet Dataset: Reanalysis and Correction},
+    author={Ali Borji},
+    year={2020},
+    eprint={2004.02042},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
 }
 ```
 
