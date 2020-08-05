@@ -42,6 +42,8 @@ when deploying object detectors."
 
 
 
+** passsword for the .zip file: objectnet1234
+
 
 If you use ObjectNet Annotations or found the ideas in the paper useful, please
 cite:
