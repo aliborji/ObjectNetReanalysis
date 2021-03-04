@@ -64,7 +64,7 @@ Here is the .bib file:
 }
 
 
-@misc{borji2020objectnet,
+@misc{borji2021Contemplating,
     title={Contemplating real-world object classification},
     author={Ali Borji},
     year={2021},
